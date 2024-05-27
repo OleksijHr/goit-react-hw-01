@@ -1,0 +1,30 @@
+.container{
+    padding: 20px;
+    margin-bottom: 100px;
+
+    border: 2px solid #000;
+    border-radius:  10px;
+}
+
+.name{
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    text-align: center;
+
+    font-weight: 600;
+    font-size: 20pxs;
+}
+
+.online{
+    text-align: center;
+    font-size: 15px;
+}
+
+.isOnline{
+    color: green;
+}
+
+.offline{
+    color: red;
+}
